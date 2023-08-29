@@ -1,0 +1,7 @@
+.active {
+  background-color: #f55567;
+  cursor: pointer;
+}
+.passive {
+  cursor: pointer;
+}
